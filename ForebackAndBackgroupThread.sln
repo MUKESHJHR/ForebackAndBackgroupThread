@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForebackAndBackgroupThread", "ForebackAndBackgroupThread\ForebackAndBackgroupThread.csproj", "{2637E520-8C75-413D-AF4C-D6449E6268A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2637E520-8C75-413D-AF4C-D6449E6268A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2637E520-8C75-413D-AF4C-D6449E6268A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2637E520-8C75-413D-AF4C-D6449E6268A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2637E520-8C75-413D-AF4C-D6449E6268A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A843A2A9-0055-4EF0-93EE-FA230F647A29}
+	EndGlobalSection
+EndGlobal
